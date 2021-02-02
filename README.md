@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+    <img width="100px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" align="center" alt="GitHub Readme Stats" />
+ <h1 align="center">Pablo Henrique Anselmo</h1>
 
-<!--
-**Pablo-Henrique/Pablo-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/pablo-henrique-anselmo-8a4a11201/">
+      <img  alt="linkedin" width="44" src="https://img.icons8.com/color/48/000000/linkedin.svg"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=14988383021&text=Olá!">
+      <img width="48" src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" />
+    </a>
+    <a href="mailto:pabloh.anselmo@gmail.com">
+      <img width="45" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <h2>Um pouco sobre mim</h2>
+    
+    Gosto de aprender e aprimorar mais meus conhecimento sobre o mundo da tecnologia.
+    Sempre buscando melhorar profissionalmente como pessoalmente.
+</p>
