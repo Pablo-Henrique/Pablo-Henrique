@@ -2,7 +2,7 @@
     <p align="center">
         <img width="100px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" align="center"/>
         <h2 align="center">Pablo Henrique Anselmo</h2>
-        <p align="center"> aria-hidden="true">Java Developer</p>
+        <p align="center" aria-hidden="true">Java Developer</p>
     </p>
 </div>
 
