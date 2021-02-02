@@ -25,7 +25,7 @@
 
 <p>
     <div align="center">
-        <font size="5">Back-End</font>
+        <h2><font size="5">Back-End</font></h2>
         <p align="center">
             <a>
                 <img alt="Spring Framework" width="35" src="https://img.icons8.com/color/48/000000/spring-logo.png">
