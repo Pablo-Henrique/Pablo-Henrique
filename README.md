@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" align="center" alt="GitHub Readme Stats" />
+    <img width="100px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" align="center"/>
  <h1 align="center">Pablo Henrique Anselmo</h1>
 
 </p>
