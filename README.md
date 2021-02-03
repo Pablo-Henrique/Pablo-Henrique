@@ -21,7 +21,7 @@
     <h2>Um pouco sobre mim</h2>
     
     Gosto de aprender e aprimorar mais meus conhecimento sobre o mundo da tecnologia.
-    Sempre buscando melhorar profissionalmente como pessoalmente.
+    Sempre buscando melhorar profissionalmente.
 </p>
 
 <div align="center">
