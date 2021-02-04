@@ -21,7 +21,8 @@
     <h2>Um pouco sobre mim</h2>
     
     Gosto de aprender e aprimorar mais meus conhecimento sobre o mundo da tecnologia.
-    Sempre buscando melhorar profissionalmente.
+    Não possuo experiência profissional estou a procura de uma oportunidade para evoluir
+    profissionalmente buscando aprendar mais.
 </p>
 
 <div align="center">
