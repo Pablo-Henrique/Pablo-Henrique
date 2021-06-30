@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-        <img width="100px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" align="center"/>
+        <img width="100px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
         <h2 aria-hidden="true">Pablo Henrique Anselmo</h2>
         <h3 aria-hidden="true">Java Developer</h3>
     </p>
@@ -20,8 +20,9 @@
 <p>
     <h2>Um pouco sobre mim</h2>
     
-    Gosto de aprender e aprimorar mais meus conhecimento sobre o mundo da tecnologia.
-    Sempre buscando melhorar profissionalmente como pessoalmente.
+  Sou programador back-end em java. Não tenho experiência no mercado de trabalho pois, estou à procura de 
+  uma oportunidade para iniciar nessa carreira. Possuo fortes conhecimento em java, spring-boot, postman, 
+  IntelliJ e nas metodologias Scrum e kanban. Sou autodidata e gosto de buscar novos desafios.
 </p>
 
 <div align="center">
