@@ -15,11 +15,11 @@
     @Serial
     private static final long serialVersionUID = 4431551299765798512L;
 
-    private final nome = "Pablo Henrique Anselmo";
-    private area = "Back-end";
-    private trabalho  = null;
-    private local = "São Paulo, Avaré";
-    private final pronomes = "ele / dele";
+    private final String nome = "Pablo Henrique Anselmo";
+    private String area = "Back-end";
+    private String trabalho  = null;
+    private String local = "São Paulo, Avaré";
+    private final String pronomes = "ele / dele";
   }
 ```   
 
