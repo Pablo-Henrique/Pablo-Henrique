@@ -11,9 +11,9 @@
 
    - 🌱 Atualmente estou em busca de uma oportunidade.
 
-   - 🤝 Acesse meu linkedin <p href="https://www.linkedin.com/in/pablo-henrique-anselmo/"><
+   - 🤝 Java | Spring-Boot 
 
-   - 🌱 I’m currently learning Swift && SwiftUI
+   - 🌱 Atualmente estou estudando Design de API's RestFul com Spring Boot, TDD e o novo JUnit5
 
 <img align="right" height="100%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats&layout=compact&theme=midnight-purple&hide_border=true">
 
