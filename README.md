@@ -1,32 +1,32 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/pablo-henrique-anselmo/">
   <img src="header.svg">
 </div>
 
-<div alt="header">
+<div alt="header" align="center">
 
-  <img align="right" height="100%" width="38%" src="https://streak-stats.demolab.com?user=Pablo-Henrique&theme=vision-friendly-dark&locale=pt-br&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <div align="left">
+<img align="right" height="100%" width="38%" src="https://streak-stats.demolab.com?user=Pablo-Henrique&theme=vision-friendly-dark&locale=pt-br&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
-  - 🔭 Conhecimento em desenvolvimento de apis Rest
+   - 🔭 Conhecimento em desenvolvimento de apis Rest.
 
-  - 🌱 Atualmente estou trabalhando no aplicativo 
+   - 🌱 Atualmente estou em busca de uma oportunidade.
 
-  - 🤝 I’m available for freelancing.
+   - 🤝 Acesse meu linkedin <p href="https://www.linkedin.com/in/pablo-henrique-anselmo/"><
 
-  - 🌱 I’m currently learning Swift && SwiftUI
+   - 🌱 I’m currently learning Swift && SwiftUI
 
-  <img align="right" height="100%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats&layout=compact&theme=midnight-purple&hide_border=true">
+<img align="right" height="100%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats&layout=compact&theme=midnight-purple&hide_border=true">
 
-  - 📝 I regularly write articles on
+   - 📝 I regularly write articles on
 
-  - 💬 Ask me about **Reactjs & React-Native**
+   - 💬 Ask me about **Reactjs & React-Native**
 
-  - 📫 How to reach me **saurabhchavan052@gmail.com**
+   - 📫 How to reach me **pablohenrique.oficial@hotmail.com**
 
-  - 📄 Know about my experiences 
-  
-  <p align="center">
-
+   - 📄 Know about my experiences 
+   -
+ </div>
+ 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -62,3 +62,5 @@
   </p>
   
 </div>
+
+
