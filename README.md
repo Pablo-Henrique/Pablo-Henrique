@@ -5,29 +5,49 @@
 <div alt="header" align="center">
 
   <div align="left">
+
+
+```java
+  package com.pablohenrique;
+  @Entity
+  public class Sobre implements Serializable {
+
+    @Serial
+    private static final long serialVersionUID = 4431551299765798512L;
+
+    private final nome = "Pablo Henrique Anselmo";
+    private area = "Back-end";
+    private trabalho  = null;
+    private local = "São Paulo, Avaré";
+    private final pronomes = "ele / dele";
+  }
+```   
+
 <img align="right" height="100%" width="38%" src="https://streak-stats.demolab.com?user=Pablo-Henrique&theme=vision-friendly-dark&locale=pt-br&hide_border=true&date_format=j%20M%5B%20Y%5D">
+
 
    - 🔭 Conhecimento em desenvolvimento de apis Rest.
 
    - 🌱 Atualmente estou em busca de uma oportunidade.
 
-   - 🤝 Java | Spring-Boot 
+   - 🌱 Não é a linguagem de programação que define o programador, mas sim sua lógica.
 
-   - 🌱 Atualmente estou estudando Design de API's RestFul com Spring Boot, TDD e o novo JUnit5
+   - 📝 Atualmente estou estudando Design de API's RestFul com Spring Boot, TDD e o novo JUnit5
 
 <img align="right" height="100%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats&layout=compact&theme=midnight-purple&hide_border=true">
 
-   - 📝 I regularly write articles on
+   - 📝 Estudando para me tornar Engenheiro de Software
 
-   - 💬 Ask me about **Reactjs & React-Native**
+   - ❤️ Desenvolvedor **Java**
 
-   - 📫 How to reach me **pablohenrique.oficial@hotmail.com**
+   - 📫 Como me contatar **pablohenrique.oficial@hotmail.com**
 
-   - 📄 Know about my experiences 
-   -
+   - 💬 Whatsapp **(11) 95066-9025**
+   
+  
  </div>
  
-<div align="center"  class="icons-social" style="margin-left: 10px;">
+<div align="left"  class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/pablo-henrique-anselmo/">
   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://github.com/Pablo-Henrique">
