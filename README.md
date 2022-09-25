@@ -3,16 +3,15 @@
   <img src="header.svg">
 </div>
 
-<div align="right" height="30px" >
+<div align="right">
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats"/>
+<img display="grid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats"/>
 </div>
 
 <br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pablo-Henrique&repo=convoychat"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Pablo-Henrique&repo=convoychat"/>
 </div>
-
 </div>
