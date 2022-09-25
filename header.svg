@@ -52,6 +52,9 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
+					background: linear-gradient(-45deg, #0006BC, #DB0000 , #110303);
+					background-size: 600% 400%;
+					animation: gradientBackground 12s ease infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
@@ -74,12 +77,12 @@
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+					animation: 3s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
 				<h1>Hello There, I'm Pablo!</h1>
-				<p>Click to see my Linkedin</p>
+				<p>💻      𝗝𝗮𝘃𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿      💻</p>
 			</div>
     </div>
   </foreignObject>
