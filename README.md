@@ -9,6 +9,10 @@
 
 ```java
   package com.pablohenrique;
+  
+  import java.io.Serial;
+  import java.io.Serializable;
+
   @Entity
   public class Sobre implements Serializable {
 
