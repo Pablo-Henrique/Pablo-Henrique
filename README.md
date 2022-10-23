@@ -23,7 +23,6 @@
     private String area = "Back-end";
     private String trabalho  = null;
     private String local = "São Paulo, Avaré";
-    private final String pronomes = "ele / dele";
   }
 ```   
 
