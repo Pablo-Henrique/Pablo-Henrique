@@ -35,7 +35,7 @@
 
    - 🌱 Não é a linguagem de programação que define o programador, mas sim sua lógica.
 
-   - 📝 Atualmente estou estudando Design de API's RestFul com Spring Boot, TDD e o novo JUnit5
+   - 📝 Atualmente estou estudando aplicação Java Spring Boot, Docker, Tracing(Jaegar), monitoramento com Prometheus e Grafana
 
 <img align="right" height="100%" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Henrique&repo=github-readme-stats&layout=compact&theme=midnight-purple&hide_border=true">
 
