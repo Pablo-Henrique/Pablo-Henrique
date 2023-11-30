@@ -21,7 +21,7 @@
 
     private final String nome = "Pablo Henrique Anselmo";
     private String area = "Back-end";
-    private String trabalho  = null;
+    private String trabalho  = "TI - Analista e suporte help desk;
     private String local = "São Paulo, Avaré";
   }
 ```   
